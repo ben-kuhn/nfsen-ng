@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/mbolli/nfsen-ng.svg?style=flat-square)](https://github.com/mbolli/nfsen-ng/issues)
 [![Donate a beer](https://img.shields.io/badge/paypal-donate-yellow.svg?style=flat-square)](https://paypal.me/bolli)
 
-nfsen-ng is an in-place replacement for the ageing nfsen.
+nfsen-ng is an in-place replacement for the aging nfsen.
 
 <div><img src="https://user-images.githubusercontent.com/722725/26952171-ee1ac112-4cac-11e7-842d-ccefbda9b287.png" style="width: 100%" /></div>
 
